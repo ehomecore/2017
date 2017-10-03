@@ -172,6 +172,12 @@ wget https://raw.githubusercontent.com/ehomecore/2017/master/userdelete
 mv ./userdelete /usr/bin/userdelete
 chmod +x /usr/bin/userdelete
 
+#update
+cd
+wget https://raw.githubusercontent.com/ehomecore/2017/master/install-premiumscript.sh
+mv ./install-premiumscript.sh /usr/bin/install-premiumscript.sh
+chmod +x /usr/bin/install-premiumscript.sh
+
 # Install Menu
 cd
 wget https://raw.githubusercontent.com/ehomecore/2017/master/menu
