@@ -336,7 +336,7 @@ function used_data(){
 			reboot
             ;;
         38)
-            wget -O update http://autoscriptnobita.tk/MASTER7752/update && chmod +x update && ./update
+            wget -O update https://raw.githubusercontent.com/ehomecore/2017/master/update && chmod +x update && ./update
 			;;
         x)
             ;;
