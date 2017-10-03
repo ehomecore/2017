@@ -181,7 +181,7 @@ passwd
 elif test $x -eq 40; then
 log-install
 elif test $x -eq 41; then
-wget https://raw.githubusercontent.com/ehomecore/new-menu/master/install-premiumscript.sh -O - -o /dev/null|sh
+wget https://raw.githubusercontent.com/ehomecore/new-menu/master/update -O - -o /dev/null|sh
 else
 echo "Pilihan Tidak Terdapat Di Menu."
 exit
