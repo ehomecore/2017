@@ -7,9 +7,9 @@ chmod +x /usr/local/bin/user-list
 
 # instal Buat Akun SSH/OpenVPN
 cd
-wget https://raw.githubusercontent.com/ehomecore/2017/master/buatakun
-mv ./buatakun /usr/bin/buatakun
-chmod +x /usr/bin/buatakun
+wget https://raw.githubusercontent.com/ehomecore/2017/master/user-add
+mv ./user-add /usr/bin/user-add
+chmod +x /usr/bin/user-add
 
 # instal Generate Akun SSH/OpenVPN
 cd
